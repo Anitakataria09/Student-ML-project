@@ -1,0 +1,13 @@
+prefix=D:/project/ml project/myeve/Library
+exec_prefix=D:/project/ml project/myeve/Library
+libdir=D:/project/ml project/myeve/Library/lib
+sharedlibdir=D:/project/ml project/myeve/Library/lib
+includedir=D:/project/ml project/myeve/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
