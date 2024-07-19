@@ -1,1 +1,6 @@
+#environments
+.artifacts
+.myeve
+myeve/
+env.bak/
 
