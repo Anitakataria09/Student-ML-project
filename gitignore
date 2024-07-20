@@ -1,5 +1,5 @@
 #environments
-.artifacts
+.artifacts/
 .myeve
 myeve/
 env.bak/
